@@ -2,6 +2,7 @@
 - https://github.com/lusgli-0
 
 然后提交一个 Pull Request（PR）请求合并。
+LZH：https://github.com/Buyou27
 
 ---------------------------------------------
 各位部员：
